@@ -1,0 +1,3 @@
+1$Giacomo$Beltrame$devsoft91$19732846$via A. Antoniazzi$Proprietario
+2$ciccio$pasticcio$altea$123456789$via pintus$Cliente
+3$mimmo$bastian$panzer$987654321$via delle calli$Cliente

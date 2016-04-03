@@ -1,0 +1,112 @@
+1$Gladiator$Protezioni$Guanti$Leone$guanti progettati per la massima durata e longevità destinati al grappling intenso.$45.00
+2$Hunter SRT$Protezioni$Guanti$Sphinx$guanti da allenamento.$35.00
+3$T-shirt$Abbilgiamento$Magliette$Leone$T-Shirt in cotone bianca.$25.00
+4$Pro Boxing Trunks$Abbigliamento$Pantaloncini$Everlast$Pantaloncini leggeri in poliestere di colore nero.$29.90
+5$Professional Protector$Protezioni$Conchiglie$Leone$Conchiglia protettiva estraibile con banda elastica.$10.00
+6$Full Protection Head Gear$Protezioni$Caschi$Everlast$Caschetto di protezione totale in pelle.$85.00
+7$Heavy Bag Speed Bag Stand$Attrezzatura$Sacchi$Everlast$Sacco da Boxe per un allenamento completo all'interno della vostra abitazione.$315.00
+8$Conchiglia Booster$Protezioni$Conchiglie$FigthGear$Conchiglia Professionale, assicura una protezione efficace.$59.90
+9$Woman Belt$Protezioni$Conchiglie$Leone$Conchiglia con cintura elasticizzata.$25.00
+10$Shadow rfd$Protezioni$Paratibia$Sphinx$Paratibia con piede e doppia imbottitura al centro.$53.00
+11$Paratibia Strike$Protezioni$Paratibia$Leone$Paratibia con doppio strappo e rifiniture in oro.$25.00
+12$Universal-Blue$Protezioni$Paradenti$ToughBoys$Paradenti universale valido per ogni tipo di sport da combattimento.$6.00
+13$Fighter$Protezioni$Caschi$Leone$Casco con grata in ferro ideale per per arti marziali con uso di bastone.$75.00
+14$GBX700$Protezioni$Guanti$Fighters$Guanti ideali per boxe, muay thay e simili.$30.00
+15$Karatemax$Protezioni$Guanti$Leone$Guanti ideali per karate shotokan.$17.00
+16$T-shirt boxe$Abbigliamento$Magliette$Lonsdale$Maglietta per tutti i giorni.$15.00
+17$UFC$Abbigliamento$Magliette$Adidas$Maglietta ufficiale ufc.$20.00
+18$Team Italy$Abbigliamento$Pantaloncini$FigthGear$Pantaloncini con i colori dell'italia per muay thay.$29.00
+19$Grips Croco$Abbigliamento$Pantaloncini$Grips$Pantaloncini color coccodrillo per grappling.$56.00
+20$Kick Pants$Abbigliamento$Pantaloni$Leone$pantaloni lunghi per kickboxe.$39.90
+21$Kimono BJJ$Abbigliamento$Kimono$Grips$Kimono professionale di colore blu per brazilian ju jitsu.$147.00
+22$Winner super$Abbigliamento$Kimono$Itaki$Kimono karate professionale, alte prestazioni.$110.00
+23$Judogi ITAKI$Abbigliamento$Kimono$Itaki$Kimono judo da allenamento, economico.$54.00
+24$Scarpette boxe$Abbigliamento$Scarpe$Lonsdale$Stivaletto performante per incontri di boxe.$60.00
+25$Professional suede boxing lo-top shoe$Abbigliamento$Scarpe$Everlast$Stivaletti bassi per  gli allenamenti con prese d'aria traspirante.$80.00
+26$Stryker$Attrezzatura$Colpitori$Sphinx$Guanti da passata leggermente curvati, estremamente leggeri e con imbottitura in gel.$44.00
+27$Vanguard mmx$Attrezzatura$Colpitori$Sphinx$Pao con imbottitura supplementare e cuciture rinforzate.$124.00
+28$Kick Shield$Attrezzatura$Colpitori$Leone$Scudo curvo protettivo. L'imbottitura Anti-Shock garantisce una totale protezione.$137.00
+29$Speed bag$Attrezzatura$Sacchi$Everlast$Sacco veloce con lacci e cuciture rinforzati per garantire maggiore durata.$62.50
+30$Sacco maya$Attrezzatura$Sacchi$Adidas$Sacco in vinile 30kg.$140.00
+31$Bastone Maculato$Attrezzatura$Armi$ToughBoys$bastone in legno ideale per allenamenti.$13.00
+32$Wakizashi$Attrezzatura$Armi$ToughBoys$Wakizashi in legno ideale per Karate.$9.00
+33$BO$Attrezzatura$Armi$ToughBoys$Bo da allenamento.$21.00
+34$JO$Attrezzatura$Armi$ToughBoys$Jo per Aikido, ideale anche per altre arti marziali.$15.00
+35$Pistola Replica Fedele$Attrezzatura$Armi$ToughBoys$Pistola in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$12.00
+36$Coltello$Attrezzatura$Armi$ToughBoys$Coltello in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$5.50
+37$Tatami 3cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 3 cm venduto in pacchetto convenienza 36 pezzi.$790.00
+38$Tatami 4cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 4 cm venduto in pacchetto convenienza 36 pezzi.$1040.00
+41$Gladiator$Protezioni$Guanti$Leone$guanti progettati per la massima durata e longevità destinati al grappling intenso.$45.00
+42$Hunter SRT$Protezioni$Guanti$Sphinx$guanti da allenamento.$35.00
+43$Hunter SRT$Protezioni$Guanti$Sphinx$guanti da allenamento.$35.00
+44$T-shirt$Abbilgiamento$Magliette$Leone$T-Shirt in cotone bianca.$25.00
+45$Pro Boxing Trunks$Abbigliamento$Pantaloncini$Everlast$Pantaloncini leggeri in poliestere di colore nero.$29.90
+46$Pro Boxing Trunks$Abbigliamento$Pantaloncini$Everlast$Pantaloncini leggeri in poliestere di colore nero.$29.90
+47$Pro Boxing Trunks$Abbigliamento$Pantaloncini$Everlast$Pantaloncini leggeri in poliestere di colore nero.$29.90
+48$Professional Protector$Protezioni$Conchiglie$Leone$Conchiglia protettiva estraibile con banda elastica.$10.00
+49$Full Protection Head Gear$Protezioni$Caschi$Everlast$Caschetto di protezione totale in pelle.$85.00
+50$Heavy Bag Speed Bag Stand$Attrezzatura$Sacchi$Everlast$Sacco da Boxe per un allenamento completo all'interno della vostra abitazione.$315.00
+51$Heavy Bag Speed Bag Stand$Attrezzatura$Sacchi$Everlast$Sacco da Boxe per un allenamento completo all'interno della vostra abitazione.$315.00
+52$Conchiglia Booster$Protezioni$Conchiglie$FigthGear$Conchiglia Professionale, assicura una protezione efficace.$59.90
+53$Conchiglia Booster$Protezioni$Conchiglie$FigthGear$Conchiglia Professionale, assicura una protezione efficace.$59.90
+54$Conchiglia Booster$Protezioni$Conchiglie$FigthGear$Conchiglia Professionale, assicura una protezione efficace.$59.90
+55$Conchiglia Booster$Protezioni$Conchiglie$FigthGear$Conchiglia Professionale, assicura una protezione efficace.$59.90
+56$Woman Belt$Protezioni$Conchiglie$Leone$Conchiglia con cintura elasticizzata.$25.00
+57$Shadow rfd$Protezioni$Paratibia$Sphinx$Paratibia con piede e doppia imbottitura al centro.$53.00
+58$Shadow rfd$Protezioni$Paratibia$Sphinx$Paratibia con piede e doppia imbottitura al centro.$53.00
+59$Paratibia Strike$Protezioni$Paratibia$Leone$Paratibia con doppio strappo e rifiniture in oro.$25.00
+60$Paratibia Strike$Protezioni$Paratibia$Leone$Paratibia con doppio strappo e rifiniture in oro.$25.00
+61$Paratibia Strike$Protezioni$Paratibia$Leone$Paratibia con doppio strappo e rifiniture in oro.$25.00
+62$Universal-Blue$Protezioni$Paradenti$ToughBoys$Paradenti universale valido per ogni tipo di sport da combattimento.$6.00
+63$Fighter$Protezioni$Caschi$Leone$Casco con grata in ferro ideale per per arti marziali con uso di bastone.$75.00
+64$Fighter$Protezioni$Caschi$Leone$Casco con grata in ferro ideale per per arti marziali con uso di bastone.$75.00
+65$GBX700$Protezioni$Guanti$Fighters$Guanti ideali per boxe, muay thay e simili.$30.00
+66$GBX700$Protezioni$Guanti$Fighters$Guanti ideali per boxe, muay thay e simili.$30.00
+67$T-shirt boxe$Abbigliamento$Magliette$Lonsdale$Maglietta per tutti i giorni.$15.00
+68$T-shirt boxe$Abbigliamento$Magliette$Lonsdale$Maglietta per tutti i giorni.$15.00
+69$T-shirt boxe$Abbigliamento$Magliette$Lonsdale$Maglietta per tutti i giorni.$15.00
+70$UFC$Abbigliamento$Magliette$Adidas$Maglietta ufficiale ufc.$20.00
+71$Team Italy$Abbigliamento$Pantaloncini$FigthGear$Pantaloncini con i colori dell'italia per muay thay.$29.00
+72$Team Italy$Abbigliamento$Pantaloncini$FigthGear$Pantaloncini con i colori dell'italia per muay thay.$29.00
+73$Grips Croco$Abbigliamento$Pantaloncini$Grips$Pantaloncini color coccodrillo per grappling.$56.00
+74$Grips Croco$Abbigliamento$Pantaloncini$Grips$Pantaloncini color coccodrillo per grappling.$56.00
+75$Kick Pants$Abbigliamento$Pantaloni$Leone$pantaloni lunghi per kickboxe.$39.90
+76$Kimono BJJ$Abbigliamento$Kimono$Grips$Kimono professionale di colore blu per brazilian ju jitsu.$147.00
+77$Winner super$Abbigliamento$Kimono$Itaki$Kimono karate professionale, alte prestazioni.$110.00
+78$Winner super$Abbigliamento$Kimono$Itaki$Kimono karate professionale, alte prestazioni.$110.00
+79$Judogi ITAKI$Abbigliamento$Kimono$Itaki$Kimono judo da allenamento, economico.$54.00
+80$Judogi ITAKI$Abbigliamento$Kimono$Itaki$Kimono judo da allenamento, economico.$54.00
+81$Scarpette boxe$Abbigliamento$Scarpe$Lonsdale$Stivaletto performante per incontri di boxe.$60.00
+82$Stryker$Attrezzatura$Colpitori$Sphinx$Guanti da passata leggermente curvati, estremamente leggeri e con imbottitura in gel.$44.00
+83$Vanguard mmx$Attrezzatura$Colpitori$Sphinx$Pao con imbottitura supplementare e cuciture rinforzate.$124.00
+84$Vanguard mmx$Attrezzatura$Colpitori$Sphinx$Pao con imbottitura supplementare e cuciture rinforzate.$124.00
+85$Vanguard mmx$Attrezzatura$Colpitori$Sphinx$Pao con imbottitura supplementare e cuciture rinforzate.$124.00
+86$Kick Shield$Attrezzatura$Colpitori$Leone$Scudo curvo protettivo. L'imbottitura Anti-Shock garantisce una totale protezione.$137.00
+87$Kick Shield$Attrezzatura$Colpitori$Leone$Scudo curvo protettivo. L'imbottitura Anti-Shock garantisce una totale protezione.$137.00
+88$Speed bag$Attrezzatura$Sacchi$Everlast$Sacco veloce con lacci e cuciture rinforzati per garantire maggiore durata.$62.50
+89$Speed bag$Attrezzatura$Sacchi$Everlast$Sacco veloce con lacci e cuciture rinforzati per garantire maggiore durata.$62.50
+90$Speed bag$Attrezzatura$Sacchi$Everlast$Sacco veloce con lacci e cuciture rinforzati per garantire maggiore durata.$62.50
+91$Speed bag$Attrezzatura$Sacchi$Everlast$Sacco veloce con lacci e cuciture rinforzati per garantire maggiore durata.$62.50
+92$Sacco maya$Attrezzatura$Sacchi$Adidas$Sacco in vinile 30kg.$140.00
+93$Sacco maya$Attrezzatura$Sacchi$Adidas$Sacco in vinile 30kg.$140.00
+94$Bastone Maculato$Attrezzatura$Armi$ToughBoys$bastone in legno ideale per allenamenti.$13.00
+95$Bastone Maculato$Attrezzatura$Armi$ToughBoys$bastone in legno ideale per allenamenti.$13.00
+96$Wakizashi$Attrezzatura$Armi$ToughBoys$Wakizashi in legno ideale per Karate.$9.00
+97$BO$Attrezzatura$Armi$ToughBoys$Bo da allenamento.$21.00
+98$BO$Attrezzatura$Armi$ToughBoys$Bo da allenamento.$21.00
+99$BO$Attrezzatura$Armi$ToughBoys$Bo da allenamento.$21.00
+100$JO$Attrezzatura$Armi$ToughBoys$Jo per Aikido, ideale anche per altre arti marziali.$15.00
+101$JO$Attrezzatura$Armi$ToughBoys$Jo per Aikido, ideale anche per altre arti marziali.$15.00
+102$JO$Attrezzatura$Armi$ToughBoys$Jo per Aikido, ideale anche per altre arti marziali.$15.00
+103$JO$Attrezzatura$Armi$ToughBoys$Jo per Aikido, ideale anche per altre arti marziali.$15.00
+104$JO$Attrezzatura$Armi$ToughBoys$Jo per Aikido, ideale anche per altre arti marziali.$15.00
+105$Pistola Replica Fedele$Attrezzatura$Armi$ToughBoys$Pistola in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$12.00
+106$Pistola Replica Fedele$Attrezzatura$Armi$ToughBoys$Pistola in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$12.00
+107$Pistola Replica Fedele$Attrezzatura$Armi$ToughBoys$Pistola in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$12.00
+108$Pistola Replica Fedele$Attrezzatura$Armi$ToughBoys$Pistola in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$12.00
+109$Coltello$Attrezzatura$Armi$ToughBoys$Coltello in gomma ideale per disarmare il compagno di allenamentoin sicurezza.$5.50
+110$Tatami 3cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 3 cm venduto in pacchetto convenienza 36 pezzi.$790.00
+111$Tatami 3cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 3 cm venduto in pacchetto convenienza 36 pezzi.$790.00
+112$Tatami 4cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 4 cm venduto in pacchetto convenienza 36 pezzi.$1040.00
+113$Tatami 4cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 4 cm venduto in pacchetto convenienza 36 pezzi.$1040.00
+114$Tatami 4cm$Attrezzatura$Tatami$Tatamiematerassi$Tatami professionale spessore 4 cm venduto in pacchetto convenienza 36 pezzi.$1040.00

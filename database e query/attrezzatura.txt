@@ -1,0 +1,49 @@
+7$20$ferro$160x100x100$Intermedio
+26$0.2$cuoio$20x15x5$Intermedio
+27$0.5$cuoio$35x19x17$Avanzato
+28$0.5$cuoio$70x25x17$Avanzato
+29$0.23$cuoio$25x13x13$Principiante
+30$30$vinile$100x35x35$Principiante
+31$0.3$legno$50x2x2$Intermedio
+32$1$legno$100x5x5$Principiante
+33$1$legno$160x3x3$Avanzato
+34$1$legno$140x3x3$Intermedio
+35$0.5$gomma$18x12x2$Avanzato
+36$0.3$gomma$18x5x1$Avanzato
+37$36$schiuma EVA$36x36x3$Intermedio
+38$54$schiuma EVA$36x36x4$Avanzato
+50$20$ferro$160x100x100$Intermedio
+51$20$ferro$160x100x100$Intermedio
+82$0.2$cuoio$20x15x5$Intermedio
+83$0.5$cuoio$35x19x17$Avanzato
+84$0.5$cuoio$35x19x17$Avanzato
+85$0.5$cuoio$35x19x17$Avanzato
+86$0.5$cuoio$70x25x17$Avanzato
+87$0.5$cuoio$70x25x17$Avanzato
+88$0.23$cuoio$25x13x13$Principiante
+89$0.23$cuoio$25x13x13$Principiante
+90$0.23$cuoio$25x13x13$Principiante
+91$0.23$cuoio$25x13x13$Principiante
+92$30$vinile$100x35x35$Principiante
+93$30$vinile$100x35x35$Principiante
+94$0.3$legno$50x2x2$Intermedio
+95$0.3$legno$50x2x2$Intermedio
+96$1$legno$100x5x5$Principiante
+97$1$legno$160x3x3$Avanzato
+98$1$legno$160x3x3$Avanzato
+99$1$legno$160x3x3$Avanzato
+100$1$legno$140x3x3$Intermedio
+101$1$legno$140x3x3$Intermedio
+102$1$legno$140x3x3$Intermedio
+103$1$legno$140x3x3$Intermedio
+104$1$legno$140x3x3$Intermedio
+105$0.5$gomma$18x12x2$Avanzato
+106$0.5$gomma$18x12x2$Avanzato
+107$0.5$gomma$18x12x2$Avanzato
+108$0.5$gomma$18x12x2$Avanzato
+109$0.3$gomma$18x5x1$Avanzato
+110$36$schiuma EVA$36x36x3$Intermedio
+111$36$schiuma EVA$36x36x3$Intermedio
+112$54$schiuma EVA$36x36x4$Avanzato
+113$54$schiuma EVA$36x36x4$Avanzato
+114$54$schiuma EVA$36x36x4$Avanzato

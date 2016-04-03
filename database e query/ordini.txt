@@ -1,0 +1,2 @@
+1$2$curdate()
+2$3$curdate()
